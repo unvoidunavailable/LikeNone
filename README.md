@@ -1,3 +1,1 @@
-This is LikeNone.
-
-Nothing more left.
+# Yes, it's an empty self-biography.
